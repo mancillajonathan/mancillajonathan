@@ -41,7 +41,7 @@
 ![FI](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma&logoColor=ffffff)
 
 #### Deployment
-![Netlify](https://img.shields.io/badge/-Netifly-00c0b0?style=flat-square&logo=netlify&logoColor=ffffff)
+![Netlify](https://img.shields.io/badge/-Netlify-00c0b0?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel&logoColor=ffffff)
 
 #### OS
