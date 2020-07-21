@@ -28,7 +28,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-React-007ACC?style=flat-square&logo=react&logoColor=ffffff)
 
 #### Tools
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
@@ -38,4 +38,11 @@
 ![NPM](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=ffffff)
 ![XD](https://img.shields.io/badge/-Adobe%20XD-470137?style=flat-square&logo=adobe-xd&logoColor=ffffff)
 ![AI](https://img.shields.io/badge/-Illustrator-330000?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
-![AI](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma&logoColor=ffffff)
+![FI](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma&logoColor=ffffff)
+
+#### Deployment
+![Netlify](https://img.shields.io/badge/-Netifly-00c0b0?style=flat-square&logo=netlify&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel&logoColor=ffffff)
+
+#### OS
+![CLI](http://img.shields.io/badge/-Windows-007ACC?style=flat-square&logo=windows&logoColor=ffffff)
