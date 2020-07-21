@@ -1,4 +1,4 @@
-# Hi! 👋🏾 👩🏾‍💻
+# Hi! 👋🏽
 
 <img src="https://github.com/mancillajonathan/mancillajonathan/blob/master/images/bg.png" alt="banner">
 
@@ -37,3 +37,5 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![NPM](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=ffffff)
 ![XD](https://img.shields.io/badge/-Adobe%20XD-470137?style=flat-square&logo=adobe-xd&logoColor=ffffff)
+![AI](https://img.shields.io/badge/-Illustrator-330000?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
+![AI](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma&logoColor=ffffff)
